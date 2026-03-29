@@ -1,3 +1,12 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "id": "task_0001",
+      "title": "Mission pilote Rox - structure et checklist",
+      "owner": "Rox",
+      "status": "todo",
+      "source": "phase10",
+      "notes": "Mini-tâche test limitée conforme à sa spécialité."
+    }
+  ]
 }
