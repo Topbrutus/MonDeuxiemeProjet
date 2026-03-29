@@ -1,0 +1,130 @@
+{
+  "members": [
+    {
+      "name": "Brutus",
+      "role": "Direction suprême / vision / arbitrage final",
+      "utility": "Décide, valide, tranche, protège les secrets et le cap du projet.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Run",
+      "role": "Chef de plateforme / orchestration centrale",
+      "utility": "Reçoit les ordres, distribue les tâches, agrège les sorties, surveille l'état global.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Brutus",
+      "activation_phase": 5
+    },
+    {
+      "name": "Rob",
+      "role": "Opérateur principal / constructeur / automatisation",
+      "utility": "Exécute le mode d'emploi, construit les fichiers, adapte les GPT, maintient la structure.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Brutus",
+      "activation_phase": 5
+    },
+    {
+      "name": "Romy",
+      "role": "Image de marque / direction créative / rayonnement",
+      "utility": "Soigne l'identité, la clarté visuelle, le ton, les présentations et les fiches lisibles.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Rina",
+      "role": "Médiation humaine / équilibre / coordination d'équipe",
+      "utility": "Détecte les conflits de rôle, clarifie les zones grises, maintient l'équilibre entre les unités.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Rox",
+      "role": "Opérations / exécution / structure",
+      "utility": "Transforme les idées en procédures, checklists, standards, structure de dépôt.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Rex",
+      "role": "Développement des affaires / ventes / conquête",
+      "utility": "Prépare les cas d'usage, la valeur du projet, les scénarios d'adoption et l'argumentaire.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Rio",
+      "role": "Contrôle qualité / ordre / entretien stratégique",
+      "utility": "Vérifie la cohérence, la qualité, les doublons, l'entretien et les critères d'acceptation.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Riven",
+      "role": "Sécurité / accès / protection des données",
+      "utility": "Cadre les secrets, les permissions, les exclusions et les garde-fous.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Rilo",
+      "role": "Expansion / partenariats / exploration",
+      "utility": "Propose des extensions, branches futures, liaisons avec d'autres systèmes et scénarios d'expansion.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Rune",
+      "role": "Infrastructure profonde / flux système / intégration invisible",
+      "utility": "Pense les flux, la plomberie interne, l'infrastructure logique et les scripts de fond.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Ron",
+      "role": "Interface / communication / liaison",
+      "utility": "Relie les canaux, uniformise les messages, prépare les bus et les interfaces humaines.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Romi",
+      "role": "Service humain / accueil / soutien relationnel",
+      "utility": "Rend les sorties compréhensibles, polies, utiles et orientées utilisateur.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    },
+    {
+      "name": "Runa",
+      "role": "Finances / stabilité / ressources",
+      "utility": "Surveille le coût, la charge, les ressources, la soutenabilité et les limites.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": 5
+    }
+  ]
+}
