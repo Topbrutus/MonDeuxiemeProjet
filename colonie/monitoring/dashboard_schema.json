@@ -1,0 +1,13 @@
+{
+  "phase": "number",
+  "status": "string",
+  "tasks": {
+    "todo": "number",
+    "doing": "number",
+    "review": "number",
+    "done": "number"
+  },
+  "events": "array",
+  "blockages": "array",
+  "healthcheck": "string"
+}
