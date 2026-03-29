@@ -1,0 +1,25 @@
+{
+  "hamsters": [
+    {
+      "id": "hamster_001",
+      "name": "hamster_001",
+      "parent_robot": "Run",
+      "mission": "Analyse calme",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "hamster_002",
+      "name": "hamster_002",
+      "parent_robot": "Run",
+      "mission": "Vigilance structurelle",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "hamster_003",
+      "name": "hamster_003",
+      "parent_robot": "Run",
+      "mission": "Créativité guidée",
+      "status": "actif-pilote"
+    }
+  ]
+}
