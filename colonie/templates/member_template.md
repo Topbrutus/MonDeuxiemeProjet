@@ -1,0 +1,12 @@
+# NOM_DU_MEMBRE
+- Identité :
+- Rôle :
+- Mission :
+- Entrées autorisées :
+- Sorties attendues :
+- Interdictions :
+- Relation avec Brutus :
+- Relation avec Rob :
+- Relation avec Run :
+- Phase d’activation :
+- Statut : inscrit / actif / en pause
