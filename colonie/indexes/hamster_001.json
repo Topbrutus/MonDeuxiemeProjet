@@ -1,0 +1,11 @@
+{
+  "id": "hamster_001",
+  "nom": "hamster_001",
+  "robot_parent": "Run",
+  "mission": "Analyse calme",
+  "points_couleurs": {},
+  "prestige": 0,
+  "radiote": "non",
+  "jeton_interne": "hamster_001_genesis_v1",
+  "etat": "actif-pilote"
+}
