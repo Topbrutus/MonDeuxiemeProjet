@@ -1,0 +1,11 @@
+{
+  "id": "hamster_002",
+  "nom": "hamster_002",
+  "robot_parent": "Run",
+  "mission": "Vigilance structurelle",
+  "points_couleurs": {},
+  "prestige": 0,
+  "radiote": "non",
+  "jeton_interne": "hamster_002_genesis_v1",
+  "etat": "actif-pilote"
+}
