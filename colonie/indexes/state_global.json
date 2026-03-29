@@ -1,0 +1,30 @@
+{
+  "project": "MonDeuxiemeProjet",
+  "status": "bootstrapping",
+  "phase": 2,
+  "active_robots": [
+    "Brutus",
+    "Rob",
+    "Run"
+  ],
+  "active_hamsters": [
+    "hamster_001",
+    "hamster_002",
+    "hamster_003"
+  ],
+  "active_fourmis": [
+    "fourmi_0001",
+    "fourmi_0002",
+    "fourmi_0003",
+    "fourmi_0004",
+    "fourmi_0005",
+    "fourmi_0006",
+    "fourmi_0007",
+    "fourmi_0008",
+    "fourmi_0009",
+    "fourmi_0010",
+    "fourmi_0011",
+    "fourmi_0012"
+  ],
+  "last_update": "2026-03-29T00:00:00Z"
+}
