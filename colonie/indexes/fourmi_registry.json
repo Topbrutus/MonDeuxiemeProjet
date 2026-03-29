@@ -1,0 +1,88 @@
+{
+  "fourmis": [
+    {
+      "id": "fourmi_0001",
+      "hamster_parent": "hamster_001",
+      "speciality": "analyse",
+      "logical_color": "AND+",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0002",
+      "hamster_parent": "hamster_001",
+      "speciality": "tri",
+      "logical_color": "NOR-",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0003",
+      "hamster_parent": "hamster_001",
+      "speciality": "synthèse",
+      "logical_color": "OR+",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0004",
+      "hamster_parent": "hamster_001",
+      "speciality": "vérification",
+      "logical_color": "XNOR+",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0005",
+      "hamster_parent": "hamster_002",
+      "speciality": "vigilance",
+      "logical_color": "NOR-",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0006",
+      "hamster_parent": "hamster_002",
+      "speciality": "qualité",
+      "logical_color": "AND+",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0007",
+      "hamster_parent": "hamster_002",
+      "speciality": "cohérence",
+      "logical_color": "A→B",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0008",
+      "hamster_parent": "hamster_002",
+      "speciality": "sécurité",
+      "logical_color": "NAND-",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0009",
+      "hamster_parent": "hamster_003",
+      "speciality": "créativité",
+      "logical_color": "XOR±",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0010",
+      "hamster_parent": "hamster_003",
+      "speciality": "style",
+      "logical_color": "OR+",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0011",
+      "hamster_parent": "hamster_003",
+      "speciality": "prototypage",
+      "logical_color": "TRUE+",
+      "status": "actif-pilote"
+    },
+    {
+      "id": "fourmi_0012",
+      "hamster_parent": "hamster_003",
+      "speciality": "liaison",
+      "logical_color": "AND+",
+      "status": "actif-pilote"
+    }
+  ]
+}
