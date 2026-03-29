@@ -1,7 +1,7 @@
 # STATE
 
-- Phase actuelle : 2
-- Dernière validation : dépôt créé
-- Prochaine action : création de la structure colonie
+- Phase actuelle : 8
+- Derniere validation : Run et hub minimal crees
+- Prochaine action : routines, tests guides et adaptation GPTs
 - Bloqueurs : aucun
-- Note opérateur : squelette complet créé sur demande de Brutus ; plusieurs validations humaines et activations GPT restent à faire avant de déclarer les phases suivantes validées.
+- Note operateur : le socle existe, le roster existe, les 3 hamsters pilotes existent, Run et le hub minimal sont en place.
