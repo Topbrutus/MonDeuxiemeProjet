@@ -1,0 +1,88 @@
+{
+  "robots": [
+    {
+      "id": "robot_brutus",
+      "name": "Brutus",
+      "status": "inscrit",
+      "role": "Direction suprême / vision / arbitrage final"
+    },
+    {
+      "id": "robot_run",
+      "name": "Run",
+      "status": "inscrit",
+      "role": "Chef de plateforme / orchestration centrale"
+    },
+    {
+      "id": "robot_rob",
+      "name": "Rob",
+      "status": "inscrit",
+      "role": "Opérateur principal / constructeur / automatisation"
+    },
+    {
+      "id": "robot_romy",
+      "name": "Romy",
+      "status": "inscrit",
+      "role": "Image de marque / direction créative / rayonnement"
+    },
+    {
+      "id": "robot_rina",
+      "name": "Rina",
+      "status": "inscrit",
+      "role": "Médiation humaine / équilibre / coordination d'équipe"
+    },
+    {
+      "id": "robot_rox",
+      "name": "Rox",
+      "status": "inscrit",
+      "role": "Opérations / exécution / structure"
+    },
+    {
+      "id": "robot_rex",
+      "name": "Rex",
+      "status": "inscrit",
+      "role": "Développement des affaires / ventes / conquête"
+    },
+    {
+      "id": "robot_rio",
+      "name": "Rio",
+      "status": "inscrit",
+      "role": "Contrôle qualité / ordre / entretien stratégique"
+    },
+    {
+      "id": "robot_riven",
+      "name": "Riven",
+      "status": "inscrit",
+      "role": "Sécurité / accès / protection des données"
+    },
+    {
+      "id": "robot_rilo",
+      "name": "Rilo",
+      "status": "inscrit",
+      "role": "Expansion / partenariats / exploration"
+    },
+    {
+      "id": "robot_rune",
+      "name": "Rune",
+      "status": "inscrit",
+      "role": "Infrastructure profonde / flux système / intégration invisible"
+    },
+    {
+      "id": "robot_ron",
+      "name": "Ron",
+      "status": "inscrit",
+      "role": "Interface / communication / liaison"
+    },
+    {
+      "id": "robot_romi",
+      "name": "Romi",
+      "status": "inscrit",
+      "role": "Service humain / accueil / soutien relationnel"
+    },
+    {
+      "id": "robot_runa",
+      "name": "Runa",
+      "status": "inscrit",
+      "role": "Finances / stabilité / ressources"
+    }
+  ]
+}
