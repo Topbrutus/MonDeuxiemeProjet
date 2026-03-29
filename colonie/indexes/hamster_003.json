@@ -1,0 +1,11 @@
+{
+  "id": "hamster_003",
+  "nom": "hamster_003",
+  "robot_parent": "Run",
+  "mission": "Creativite guidee",
+  "points_couleurs": {},
+  "prestige": 0,
+  "radiote": "non",
+  "jeton_interne": "hamster_003_genesis_v1",
+  "etat": "actif-pilote"
+}
