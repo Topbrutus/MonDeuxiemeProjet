@@ -6,5 +6,6 @@
     "Run"
   ],
   "version": "0.1.0",
-  "status": "bootstrapping"
+  "phase": 14,
+  "status": "pilot-ready"
 }
