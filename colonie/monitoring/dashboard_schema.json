@@ -1,13 +1,37 @@
 {
   "phase": "number",
-  "status": "string",
+  "last_validation": "string",
+  "project_status": "string",
+  "active": {
+    "robots": "array",
+    "hamsters": "number",
+    "fourmis": "number"
+  },
   "tasks": {
-    "todo": "number",
+    "toto": "number",
     "doing": "number",
     "review": "number",
-    "done": "number"
+    "done": "number",
+    "current": "string"
   },
-  "events": "array",
-  "blockages": "array",
-  "healthcheck": "string"
+  "blockers": "array",
+  "last_event": {
+    "id": "string",
+    "timestamp": "string",
+    "type": "string",
+    "status": "string"
+  },
+  "healthcheck": {
+    "socle": "string",
+    "traces": "string",
+    "security": "string",
+    "dashboard": "string"
+  },
+  "sources": {
+    "state": "string",
+    "task_board": "string",
+    "events": "string",
+    "task_registry": "string",
+    "state_global": "string"
+  }
 }
