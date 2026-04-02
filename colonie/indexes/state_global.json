@@ -26,5 +26,9 @@
     "fourmi_0011",
     "fourmi_0012"
   ],
-  "last_update": "2026-03-30T11:02:00Z"
+  "current_task": "task_0001",
+  "current_loop": "dashboard",
+  "last_validation": "socle complet prêt",
+  "last_event_id": "evt_00000002",
+  "last_update": "2026-04-02T04:16:51Z"
 }
