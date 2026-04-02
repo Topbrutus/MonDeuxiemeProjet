@@ -8,7 +8,7 @@
     "fourmis": "number"
   },
   "tasks": {
-    "toto": "number",
+    "todo": "number",
     "doing": "number",
     "review": "number",
     "done": "number",
