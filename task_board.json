@@ -1,12 +1,15 @@
 {
-  "todo": [
+  "todo": [],
+  "doing": [],
+  "review": [],
+  "done": [
     {
       "id": "task_0001",
       "title": "Mission pilote Rox - structure et checklist",
-      "owner": "Rox"
+      "owner": "Rox",
+      "status": "pilot-base-frozen",
+      "phase": 14,
+      "project_status": "pilot-ready"
     }
-  ],
-  "doing": [],
-  "review": [],
-  "done": []
+  ]
 }
