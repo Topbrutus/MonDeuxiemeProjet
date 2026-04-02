@@ -3,7 +3,7 @@
 Tableau de bord trs ès sobre pour l’exploitation pilote interne contrôlée.
 
 ## Champs canoniques
-- phose actuelle
+- phase actuelle
 - dernière validation
 - statut projet
 - robots actifs
@@ -29,7 +29,7 @@ Statut : pilot-ready
 Robots actifs : Brutus, Rob, Run
 Hamsters actifs : 3
 Fourmis actives : 12
-Tâches : toto/doing/review/done
+Tâches : todo/doing/review/done
 Bloqueurs : aucun majeur structurel
 Dernier événement : task_0001 figée comme base opératoire pilote
 Healthcheck : socle OK / traces OK / sécurité OK
