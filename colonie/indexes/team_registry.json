@@ -125,6 +125,15 @@
       "access_level": "conceptuel",
       "reports_to": "Run",
       "activation_phase": 5
+    },
+    {
+      "name": "Casey",
+      "role": "À définir",
+      "utility": "Présence reconnue dans la famille robot; mission détaillée à préciser par Brutus plus tard.",
+      "status": "inscrit",
+      "access_level": "conceptuel",
+      "reports_to": "Run",
+      "activation_phase": null
     }
   ]
 }
